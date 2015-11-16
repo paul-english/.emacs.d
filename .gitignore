@@ -21,3 +21,8 @@ session*
 .cask
 tramp
 /var/pcache
+/abbrev_defs
+/ac-comphist.dat
+.python-environments
+request/
+games/
